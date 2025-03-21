@@ -88,10 +88,10 @@
 		  "available_lampa": 1
 		},
         	{
-		  "name": "Клубничка 18+",
-		  "author": "@sisi",
-		  "link": "https://sisi.am/pussy.js",
-		  "descr": "Онлайн просмотр контента для взрослых, больше 30 сайтов",
+		  "name": "Cinema",
+		  "author": "@cinema",
+		  "link": "https://raw.githubusercontent.com/tvmyru/lplug/refs/heads/main/cinema.js",
+		  "descr": "Онлайн просмотр контента",
 		  "available_lampa": 1
 		}
       ],
