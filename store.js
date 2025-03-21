@@ -23,7 +23,7 @@
         if (e.name == 'main') {
             e.body.find('[data-component="pirate_store"]').on('hover:enter', function() {
                 Lampa.Extensions.show({
-                    store: 'https://tvmyru.github.io/lplug/ext.json',
+                    store: 'https://raw.githubusercontent.com/tvmyru/lplug/refs/heads/main/ext.json',
                     with_installed: true
                 });
             });
